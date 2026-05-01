@@ -1,7 +1,6 @@
 # 📊 Sales Performance Dashboard (Excel)
 
-![Business-Sales-Analytics-Dashboard-Revenue-Profit-Growth-Excel-
-](/Business20%Sales20%Analytics.png)
+![Business-Sales-Analytics-Dashboard-Revenue-Profit-Growth-Excel](/Business20%Sales20%Analytics.png)
 
 ---
 
